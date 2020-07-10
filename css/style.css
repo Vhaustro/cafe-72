@@ -100,7 +100,7 @@ ul{
     font-weight: 400;
     color: #2c3e50;
     margin-bottom: 10px;
-    font-size: 21px;
+    font-size: 27px;
 }
 
 .about-text a{
@@ -110,6 +110,7 @@ ul{
 
 .about-text a:hover {
     color: #2c3e50;
+    font-size: 25px;
 }
 
 /* -----------------------
@@ -147,7 +148,15 @@ ul{
 .food img{
     height: 100%;
 }
-
+.eggs{
+    padding-right: 10px;
+    image-resolution: snap;
+    
+}
+.ugali{
+    font-size: 23px;
+    font-weight: 300;
+}
 .food-text h2{
     margin-bottom: 20px;
     font-weight: 300;
@@ -160,7 +169,15 @@ ul{
     font-size: 21px;
 }
 
+.menu-text{
+    font-weight: 300;   
+    font-size: 27px;
+}
 
+.break{
+    font-size: 47px;
+    font-weight: 400;
+}
 /* -----------------------
         Tomato Image
 ------------------------*/
